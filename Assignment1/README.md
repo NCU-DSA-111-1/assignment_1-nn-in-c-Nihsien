@@ -16,7 +16,9 @@ $ ./bin/Assignment_1
 ```
 
 2. After training, we will get weights and loss of the training data.   
+
 3.Input N bits data to test for N>=2.
+
 4.Press ctrl+c to exit.
 
 ```
