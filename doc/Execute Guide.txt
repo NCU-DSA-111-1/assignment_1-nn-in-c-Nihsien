@@ -1,0 +1,3 @@
+Enter the following command to run the executable file.
+
+./bin/Assignment_1
